@@ -1,6 +1,8 @@
 .header {
-  background-color: #088b38;
+  background-color: #164be8;
   padding: 10px;
+
+  justify-content: center;
 }
 .searchForm {
   display: flex;
